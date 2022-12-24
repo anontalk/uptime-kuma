@@ -45,7 +45,7 @@ export default {
     confirmEnableTwoFAMsg: "Are you sure you want to enable 2FA?",
     confirmDisableTwoFAMsg: "Are you sure you want to disable 2FA?",
     Settings: "Settings",
-    Dashboard: "Dashboard",
+    Dashboard: "Tabla",
     "New Update": "New Update",
     Language: "Language",
     Appearance: "Appearance",
